@@ -1,5 +1,5 @@
 # intro_to_python
-## February 10, 2020
+## September 13, 2020
 This is an introduction to python, pandas, and geopandas.
 It covers basic syntax, finding anagarms from a list of words, and working with data from American Fact Finder
 
