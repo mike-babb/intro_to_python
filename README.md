@@ -1,7 +1,8 @@
 # intro_to_python
-## October 26, 2020
+## February 3, 2021
 This is an introduction to python, pandas, and geopandas.
 It covers basic syntax, finding anagarms from a list of words, and working with data from American Fact Finder
+There are two versions of each Jupyter Notebook: the version to be used through the Anaconda Platform and the version to be used through the colab.research.google.com.
 
 ### Part 1
 Examine basic python syntax. 
